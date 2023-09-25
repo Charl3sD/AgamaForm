@@ -1,1 +1,17 @@
-{}
+{
+    "2FA-AuthFlow": {
+        "projectName": "2FA-AuthFlow",
+        "description": "A basic flow with totp",
+        "type": "community",
+        "author": "Charl3sD",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Charl3sD/AgamaForm",
+        "githubUri": "https://github.com/Charl3sD/AgamaForm",
+        "license": "MIT",
+        "lastUpdated": "1695650247567",
+        "tags": [
+            "v0.0.0.1"
+        ],
+        "noDirectLaunch": []
+    }
+}
